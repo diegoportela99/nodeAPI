@@ -1,0 +1,6 @@
+body-parser
+express
+mongoose
+morgan
+multer
+nodemon
